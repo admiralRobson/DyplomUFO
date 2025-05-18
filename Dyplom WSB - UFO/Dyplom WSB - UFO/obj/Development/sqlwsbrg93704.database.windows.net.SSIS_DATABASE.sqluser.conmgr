@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="sqlwsbrg93704.database.windows.net.SSIS_DATABASE.sqluser"
+  DTS:DTSID="{13BCF6E9-C969-4493-BB28-D2E1DBA0E165}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=sqlwsbrg93704.database.windows.net;User ID=sqluser;Initial Catalog=SSIS_DATABASE;Provider=SQLOLEDB.1;Persist Security Info=True;Application Name=SSIS-Dyplom WSB - UFO-{13BCF6E9-C969-4493-BB28-D2E1DBA0E165}sqlwsbrg93704.database.windows.net.SSIS_DATABASE.sqluser;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAK535FOoqfEyEo1oEUBtWdwAAAAACAAAAAAAQZgAAAAEAACAAAAC30vC8kg+BZpK1adXOR8nRrIkFdv/XPYxvDme3Ag3nhAAAAAAOgAAAAAIAACAAAAATUlgeV8HsBR+MwOQDkhvLPOPhwWVM2M61Fc9UXn0QS5AAAADo3rhcOjzvorqx5W7z3dor8ZoNzCeJqJgzuA3O5Es+zGlHrum2BwK9Xd23Y7+RUGKB4udu6SFdrjl7SFaRKbfxuYdSUtl4tjilToco8+CviAec7G10XNwqfjkh/NhOp8RO9yOMualWiTHL0oVTxpWLjOdzk2V+3Hnshjc4uEK0iOwbHi2kkfOyXyt/OF9dYr9AAAAAPVgAkwdXz11y9kyjgzzIeraPVhQ5DCMIBd0/pvDiNMcdlqG/HnTP+XcKDib8Us37wQeKRibdyIVF8AxpgnIkZw==</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

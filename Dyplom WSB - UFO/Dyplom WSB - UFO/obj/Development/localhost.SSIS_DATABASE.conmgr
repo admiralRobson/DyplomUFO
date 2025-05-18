@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:ObjectName="localhost.SSIS_DATABASE"
   DTS:DTSID="{DC291434-5727-48F1-96D0-F40FAD198438}"
@@ -10,7 +10,7 @@
       DTS:ConnectionString="Data Source=sqlwsbrg93704.database.windows.net;User ID=sqluser;Provider=MSOLEDBSQL.1;Persist Security Info=True;Application Name=SSIS-{DC291434-5727-48F1-96D0-F40FAD198438}localhost.SSIS_DATABASE;">
       <DTS:Password
         DTS:Name="Password"
-        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAK535FOoqfEyEo1oEUBtWdwAAAAACAAAAAAAQZgAAAAEAACAAAABPef1Irj6syPhjlxukWZgQ81B4E0/EhMys54XhcReJGQAAAAAOgAAAAAIAACAAAABHY+Ox8WzUcR987zCOf+wFNBDcWgbDzOX5Ltpm4OI5Q5AAAACx/xXPfPLLHdI4yiR6O4eL0s6mkG0PO0HKOrJYmp+9iKFgPy0etQwRkh+071/eASKf8XMLmeXfqB4MXah0gT2RM2IcOzbQhyUxZFJdpkcvo4ePIFzT2FHVXnkTF6wHOVXqVlISJ+8rc6sMeB+ae0rCkgQEc/bWv6+vZk4r5TTy4LWDkARce0PvxilRJwVABJVAAAAAckkyaGS4tqdJhKtFf8KbMkqbmLyhQKZFNriUoO03qsUzSMyjeXCof1QjgqMQGbMCc/hmwzJ7Pg153T26hwdxyQ==</DTS:Password>
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAK535FOoqfEyEo1oEUBtWdwAAAAACAAAAAAAQZgAAAAEAACAAAAD+DmBr7UH4MjJUpRhb2pNjrQOTioi9Piz/VOdvs2e92gAAAAAOgAAAAAIAACAAAACeuou7WcxuSkcloA1KVET83XREKWATV32YO2R/XK88GZAAAABBkEbLKf7zupmNIfb7wYdcVwYStHvVnQS1vVyldFt6CctqO27wW5HGQkLw4yNZjU4JYag0KnIeMc/ZPyv/4qk/iLddJhDBsNgl35Bic84Q5NKxRnQOxzqQ71VH4t2QkVlbFDaonWZsKtS+G4EinXgnh4RDAelP9yKJicNkFx7qNWVtxUCIuJpNsJQz735dGOtAAAAAz1tQwpxR6jzz2ykYmrRKz+60dqMSvqYLGrMgE09c1iCFY0CMdzsG9gINwPE9nKksYQgPuxFGRHIlZa50GFAvDw==</DTS:Password>
     </DTS:ConnectionManager>
   </DTS:ObjectData>
 </DTS:ConnectionManager>
